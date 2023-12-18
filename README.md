@@ -38,4 +38,19 @@
       - **3** Recover centerline alignment and legs
       - **4** Ever  finish in an offensive cycle
   - **Specific Moves**
-  - 21:56
+    - **6 most prevalent and effective guard passes**
+      - **1** Double under
+      - **2** Over / under
+      - **3** Toreando
+      - **4** Leg Drag
+      - **5** Knee slice
+      - **6** Long step pass
+    - **6 Conditions to guard pass**
+      - **1** Break mechanical connection (less than 4 points of contact)
+      - **2** Grip work
+      - **3** Close distance and angle
+      - **4** Angle
+      - **5** Level change
+      - **6** Finish pin
+     
+    35:40
