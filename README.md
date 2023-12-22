@@ -17,7 +17,16 @@
           - Seated, supine, turtle
           - Maintain knees to chest and elbows to knees
         - **Movements Skills**
-          - Pommelling, scissoring, hip heisting, back heisting, rolling, sitting, inverting, shrimping, scooting, propping
+          - Pommelling (move foots and hips in circles, back/front),
+          - scissoring,
+          - hip heisting (levantada tecnica),
+          - back heisting (fuga com proteção + raspagem),
+          - rolling,
+          - sitting (sentar/repor a partir da tartaruga),
+          - inverting,
+          - shrimping (fuga e avanço de quadril),
+          - scooting,
+          - propping
         - **Framing Skills**
           - Forehand, Forearm, Back hand
       - **3 Tactical Skills**
@@ -48,9 +57,20 @@
     - **6 Conditions to guard pass**
       - **1** Break mechanical connection (less than 4 points of contact)
       - **2** Grip work
-      - **3** Close distance and angle
+      - **3** Close distance
       - **4** Angle
       - **5** Level change
       - **6** Finish pin
+    - **Demarcation Lines**
+      - **1** Toe
+      - **2** Knee and hips (mantain knee above hips, dont extend legs
+      - **3** Shoulder
+      - **Center line** ever be in center line - dont allow opponent stays on the side
+      - **Interception point** Side x hip line (side of hip point)
+      - Dont allow oponent control (with knee/hand) on the interception point
+    - **Framing ranges**
+      - Arms length (using hand) - Can use to retain and go to scizor guard
+      - Half arms length (using elbows and forearms)
+      - No arms length (using backhand)
+      - Use gi grips to framing (cross collar is a good idea)
      
-    35:40
