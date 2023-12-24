@@ -2,7 +2,7 @@
 ## John Danaher - Go Further Faster
 ### Guard Retention
 #### Vol 1
-1 Guard retention system
+- **Guard retention system**
   - **General System**
     - **Offensive Cycle**
       - Strong mechanical connection to my oponent (hands and feet) to enable to break his balance and attack from bottom and prevent my oponent to create angle or distance to pass my guard
@@ -73,4 +73,14 @@
       - Half arms length (using elbows and forearms)
       - No arms length (using backhand)
       - Use gi grips to framing (cross collar is a good idea)
-     
+#### Vol 2
+- **2 Most basic requirements of guard retention**
+  - Movement
+  - Connection
+- **The unforgivable sin of guard retention**
+  - Chest exposure
+- **The 3 postures of guard retention**
+  - Sitting (square and steaded)
+  - Supine
+  - Turtle
+  - Example: 27:52 - Sit, back on the floor, supine position, escape with hips, turtle position, front flip to guard
