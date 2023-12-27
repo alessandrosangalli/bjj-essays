@@ -9,7 +9,6 @@
       - If iam strongly connected to my oponent, when he moves, i also move.
     - **Defensive Cycle**
       - When oponent break the strong mechanical connection
-    - ***Confuse defensive and offencive cycles is a common error***
     - ***Heuristic rather than algorithmic***
     - **Key components**
       - **3 Physical skill sets**
@@ -17,15 +16,23 @@
           - Seated, supine, turtle
           - Maintain knees to chest and elbows to knees
         - **Movements Skills**
-          - Pommelling (move foots and hips in circles, back/front),
-          - scissoring,
-          - hip heisting (levantada tecnica),
-          - back heisting (fuga com proteção + raspagem),
-          - rolling,
+          - **Seated**
+            - Rolling Inversion (4:40 vol 3, important detail 7:00)
+            - Scooting (2:22 vol 3)
+            - Hip Heist (9:44 vol 3, levantada tecnica)
+          - **Supine**
+            - Shrimping (15:50 vol 3, 21:09 vol 3 important detail, fuga de quadril)
+            - Pommelling (22:20 vol 3, move foots and hips in circles, back/front)
+            - Pendulum (26:28 vol 3)
+            - Scissoring (29:39 vol 3)
+            - Spinning Inversion (35:00 vol 3)
+            - Back Heist (41:00 vol 3, fuga com proteção)
+          - **Turtle**
+            - Shoulder Roll (45:45 vol 3)
+            - Sitting (53:35 vol 3)
+          
           - sitting (sentar/repor a partir da tartaruga),
           - inverting,
-          - shrimping (fuga e avanço de quadril),
-          - scooting,
           - propping
         - **Framing Skills**
           - Forehand, Forearm, Back hand
@@ -36,16 +43,14 @@
         - **Appropriate Reaction**
           - **5 Requirements Theory**
             - Grip, angle, close distance, change levels, pin
-        - **Finish every sequence**
-          - **In offensive cycle**
-      - ***Unforced Error Avoidance***
+        - **Finish every sequence in offensive cycle**
         - **Common errors**
           - Chest and head exposure
     - ***Summary***
       - **1** Identify threat based on demarcation lines and 5 requirements of guard passing
       - **2** React with appropriate level of response using frames & body movement
       - **3** Recover centerline alignment and legs
-      - **4** Ever  finish in an offensive cycle
+      - **4** Ever finish in an offensive cycle
   - **Specific Moves**
     - **6 most prevalent and effective guard passes**
       - **1** Double under
@@ -84,3 +89,8 @@
   - Supine
   - Turtle
   - Example: 27:52 - Sit, back on the floor, supine position, escape with hips, turtle position, front flip to guard
+#### Vol 3  
+
+
+### Pratices
+Sit, back on the floor, supine position, escape with hips, turtle position, front flip to guard (27:52 vol 2)
