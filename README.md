@@ -10,6 +10,12 @@
     - **Defensive Cycle**
       - When oponent break the strong mechanical connection
     - ***Heuristic rather than algorithmic***
+    - **5 Conditions**
+      - Oponent grip the pants -> break or deny
+      - Oponent slide angle -> realign your center
+      - Oponent get closer to critical point (lateral of hips) -> frame (forehand) / scizor/ hip heist
+      - Oponent starts level changing -> frame (forearm) / hip heist / scizor 
+      - Oponent pin one shoulder -> frame (backhand) / hip heist / scizor / power prop (46:00 vol 5)
     - **Key components**
       - **3 Physical skill sets**
         - **Posture Skills**
@@ -30,12 +36,14 @@
           - **Turtle**
             - Shoulder Roll (45:45 vol 3)
             - Sitting (53:35 vol 3)
-          
-          - sitting (sentar/repor a partir da tartaruga),
-          - inverting,
-          - propping
         - **Framing Skills**
-          - Forehand, Forearm, Back hand
+          - Forehand, Forearm, Back hand (one hand in chest and other in the ear, to get the biceps, 16:33 vol 4)
+          - Frames on yourself (23:33 vol 4)
+          - Dont push when framing, just control to use your legs
+          - Drill frame and guard (crossing legs)
+       - **Breaking & Negating**
+         - Maintain shoulders toward hips to oponent cant push you back
+         - Break grips in pants and engage grips upper body (29:00 vol 4)
       - **3 Tactical Skills**
         - **Threat assessment**
           - **Demarcation Line Theory**
